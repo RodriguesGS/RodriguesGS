@@ -1,4 +1,4 @@
-### Hii! I'm Gabriel Rodrigues
+<a style="text-align: center;" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=&duration=3000&pause=&color=EE5656&center=true&vCenter=true&width=435&lines=Hi%2C+my+name+is+Gabriel+Rodrigues;I'm+18+years+old;I'm+graduating+software+engineering" alt="Typing SVG" /></a>
 
  <div>
   <a href="https://github.com/RodriguesGabrielS">
