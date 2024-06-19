@@ -3,13 +3,13 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-soares1402/)](https://www.linkedin.com/in/gabriel-soares1402/)
 [![Gmail Badge](https://img.shields.io/badge/-rodriguesgasoares@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rodriguesgasoares@gmail.com)](mailto:rodriguesgasoares@gmail.com)
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" width="300px" align="right">
-
 ## My name is Gabriel Rodrigues
 
 ### I'm currently studying
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,java,spring)](https://skillicons.dev)
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" width="400px" align="right">
 
 <div align=left display="flex>
   <a href="https://github.com/RodriguesGS/">
