@@ -5,11 +5,11 @@
 
 ## My name is Gabriel Rodrigues
 
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" width="400px" align="right">
+
 ### I'm currently studying
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,java,spring)](https://skillicons.dev)
-
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" width="400px" align="right">
 
 <div align=left display="flex>
   <a href="https://github.com/RodriguesGS/">
