@@ -9,7 +9,7 @@
 
 ### I'm currently studying
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,angular,java,spring)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,scss,tailwind,angular,java,spring)](https://skillicons.dev)
 
 <div align=left display="flex>
   <a href="https://github.com/RodriguesGS/">
