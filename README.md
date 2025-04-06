@@ -1,20 +1,9 @@
-<h1>Hi there 😎</h1>
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-soares1402/)](https://www.linkedin.com/in/gabriel-soares1402/)
-[![Gmail Badge](https://img.shields.io/badge/-rodriguesgasoares@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rodriguesgasoares@gmail.com)](mailto:rodriguesgasoares@gmail.com)
-
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" width="300px" align="right">
-
-## My name is Gabriel Rodrigues
-
-### I'm currently studying
-
-[![My Skills](https://skillicons.dev/icons?i=js,ts,scss,tailwind,angular,java)](https://skillicons.dev)
-
-<div align=left display="flex>
-  <a href="https://github.com/RodriguesGS/">
-    <img src="https://github-readme-stats.vercel.app/api?username=rodriguesGS&show_icons=true&icon_color=6633cc&theme=dark&bg_color=FFFFFF00&hide_title=true&hide_border=true&hide=prs" />
+<div align="center">
+  <h3>Software Developer 🦅</h3>
+  <p>angular && java ☕️ ・ frontend development 🖥️</p>
+  <a href="https://www.linkedin.com/in/gabriel-soares1402" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="linkedin logo"/></a>
+  <a href = "mailto:rodriguesgasoares@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" height="20" target="_blank"></a>
+  <a href="https://github.com/RodriguesGS">
+    <img src="https://img.shields.io/github/followers/RodriguesGS?label=follow&style=social">
   </a>
-
-  ![rodriguesGS's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rodriguesGS&theme=dark&bg_color=FFFFFF00&show_icons=true&hide_border=true&layout=compact)
-</div>
