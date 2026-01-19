@@ -1,9 +1,33 @@
-<div align="center">
-  <h3>Software Developer 🦅</h3>
-  <p>angular && java ☕️ ・ frontend development 🖥️</p>
-  <a href="https://www.linkedin.com/in/gabriel-soares1402" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="linkedin logo"/></a>
-  <a href = "mailto:rodriguesgasoares@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" height="20" target="_blank"></a>
-  <a href="https://github.com/RodriguesGS">
-    <img src="https://img.shields.io/github/followers/RodriguesGS?label=follow&style=social">
-  </a>
+# Gabriel Rodrigues 😎
+
+Data Engineering • ETL • Data & Analytics  
+
+🔗 Portfolio: https://portifolio-plum-theta-80.vercel.app/  
+
+Focused on **Data Engineering, ETL pipelines, and data-driven systems**.
+
+---
+
+### 🚀 Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=azure,docker,go,mongodb,sqlite,py)](https://skillicons.dev)
+
+---
+
+### 🎯 Focus Areas
+- Data Engineering and ETL  
+- Data pipelines and backend services  
+- Data processing and analytics  
+- Scalable and integration-driven systems
+
+---
+
+### 📫 Contact  
+<a href="https://github.com/RodriguesGS">
+  <img src="https://skillicons.dev/icons?i=github" height="32"/>
+</a>
+<a href="mailto:rodriguesgsoares@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" height="32"/>
+</a>
+<a href="https://www.linkedin.com/in/gabriel-soares1402">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="32"/>
+</a>
