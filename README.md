@@ -9,7 +9,7 @@ Focused on **Data Engineering, ETL pipelines, and data-driven systems**.
 ---
 
 ### 🚀 Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=aws,docker,mongodb,sqlite,postgresql,mysql,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,python,postgresql,git,github,obsidian,notion,docker,mongodb,mysql)](https://skillicons.dev)
 
 ---
 
