@@ -2,14 +2,14 @@
 
 Data Engineering • ETL • Data & Analytics  
 
-🔗 Portfolio: https://portifolio-plum-theta-80.vercel.app/  
+🔗 [Portfolio](https://rodriguesgs.com.br)
 
 Focused on **Data Engineering, ETL pipelines, and data-driven systems**.
 
 ---
 
 ### 🚀 Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=aws,python,postgresql,git,github,obsidian,notion,docker,mongodb,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,python,angular,mongodb,postgresql,docker,git)](https://skillicons.dev)
 
 ---
 
