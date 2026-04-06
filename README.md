@@ -2,7 +2,7 @@
 
 Data Engineering • ETL • Data & Analytics  
 
-🔗 [Portfolio](https://rodriguesgs.com.br)
+🔗 [Portfolio](https://rodriguesgs.com)
 
 Focused on **Data Engineering, ETL pipelines, and data-driven systems**.
 
